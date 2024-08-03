@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![hello-world](https://github.com/Razor718/hexlet-my-first-workflow/actions/workflows/first_workfow.yml/badge.svg)](https://github.com/Razor718/hexlet-my-first-workflow/actions/workflows/first_workfow.yml)
